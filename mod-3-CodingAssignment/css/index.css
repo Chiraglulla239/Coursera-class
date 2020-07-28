@@ -1,1 +1,22 @@
+.navbar-brand span{
+    font-size: larger;
+}
 
+.nav-item{
+    cursor: pointer;
+}
+.navbar-toggler{
+    border: 0px;
+}
+.navbar-toggler:focus{
+    outline: none;
+    border: 0px;
+}
+
+#menu-1{
+    background-color:aqua ;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
